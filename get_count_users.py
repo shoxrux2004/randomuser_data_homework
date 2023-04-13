@@ -1,4 +1,3 @@
-from webbrowser import get
 import get_data
 
 def get_count_users(data:dict) -> int:
